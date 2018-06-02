@@ -1,0 +1,25 @@
+{
+  "name": "promise-chain",
+  "version": "1.0.0",
+  "description": "Extend the Promise object to allow sequential chaining",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjbrisebois/promise-chain.git"
+  },
+  "keywords": [
+    "promise",
+    "sequential",
+    "chain",
+    "ordered"
+  ],
+  "author": "Matthew Brisebois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjbrisebois/promise-chain/issues"
+  },
+  "homepage": "https://github.com/mjbrisebois/promise-chain#readme"
+}
