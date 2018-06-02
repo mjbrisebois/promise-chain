@@ -1,5 +1,5 @@
 {
-  "name": "promise-chain",
+  "name": "@whi/promise-chain",
   "version": "1.0.0",
   "description": "Extend the Promise object to allow sequential chaining",
   "main": "index.js",
